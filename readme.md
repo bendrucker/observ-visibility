@@ -1,4 +1,4 @@
-# observ-visibility [![Build Status](https://travis-ci.org/bendrucker/observ-visibility.svg?branch=master)](https://travis-ci.org/bendrucker/observ-visibility)
+# observ-visibility [![Build Status](https://travis-ci.org/bendrucker/observ-visibility.svg?branch=master)](https://travis-ci.org/bendrucker/observ-visibility) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-visibility.svg)](https://greenkeeper.io/)
 
 > An observable interface to the page visibility api
 
